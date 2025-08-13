@@ -11,7 +11,8 @@ global.socialm = 'GitHub: https://github.com/iconic05'
 global.location = 'Zimbabwe' 
 
 //==================SETTING BOT===========================\\
-global.botname = "𝐑𝐎𝐁𝐈𝐍 𝐗𝐌𝐃"
+global.botname = "𝐊𝐈𝐍𝐆 𝐑𝐎𝐁𝐈𝐍 𝐗𝐌𝐃"
+global.codewave = "codewave-unit.zone.id"
 global.ownernumber = '263714388643'
 global.botnumber = '263714388643'
 global.ownername = 'ɪᴄᴏɴɪᴄ ᴛᴇᴄʜ'
